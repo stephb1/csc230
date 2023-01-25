@@ -79,13 +79,6 @@ end:
 	rjmp edit_distance_stop
 
 
-
-
-
-
-
-
-
 ; **** END OF "STUDENT CODE" SECTION ********** 
 
 ; ==== BEGINNING OF "DO NOT TOUCH" SECTION ====
@@ -95,3 +88,5 @@ edit_distance_stop:
 
 
 ; ==== END OF "DO NOT TOUCH" SECTION ==========
+
+
