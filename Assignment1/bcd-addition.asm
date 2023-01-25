@@ -45,8 +45,6 @@
 ; YOU DEVELOP YOUR SOLUTION MUST BE CITED AS A COMMENT (THAT
 ; IS, WHAT THE IDEA IS, PLUS THE URL).
 
-
-
     .cseg
     .org 0
 
@@ -139,8 +137,6 @@ end:
 	mov r25, r26
 
 
-
-
 ; **** END OF "STUDENT CODE" SECTION ********** 
 
 ; ==== BEGINNING OF "DO NOT TOUCH" SECTION ====
@@ -150,3 +146,5 @@ bcd_addition_end:
 
 
 ; ==== END OF "DO NOT TOUCH" SECTION ==========
+
+
